@@ -1,0 +1,11 @@
+.img-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+img {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+    margin-top: 40px;
+  }
